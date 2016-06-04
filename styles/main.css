@@ -1,0 +1,3 @@
+.wrapper {
+  composes: centered container from './utils/layout.css';
+}

@@ -1,0 +1,20 @@
+.container {
+  width: 920px;
+  margin: auto;
+}
+
+.clearfix {
+  &:before,
+  &:after {
+    content: "";
+    display: table;
+  }
+
+  &:after {
+    clear: both;
+  }
+}
+
+.centered {
+  text-align: center;
+}

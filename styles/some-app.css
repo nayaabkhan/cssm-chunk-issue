@@ -1,0 +1,3 @@
+.appContainer {
+  composes: container from './utils/layout.css';
+}

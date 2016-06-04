@@ -1,0 +1,19 @@
+{
+  "name": "cssm-chunk-issue",
+  "version": "1.0.0",
+  "description": "Repo to reproduce the duplicate code issue.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayaabkhan/cssm-chunk-issue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nayaabkhan/cssm-chunk-issue/issues"
+  },
+  "homepage": "https://github.com/nayaabkhan/cssm-chunk-issue#readme",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  }
+}
